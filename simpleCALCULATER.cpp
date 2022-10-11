@@ -4,9 +4,8 @@ int main(){
     float n1,n2;
     cout<<"ple number two number \n";
     cin>>n1>>n2;
-    char op;
     cout<<"input an oprator \n";
-    cin>>op;
+    char op;
     switch (op)
     {
     case '+':
